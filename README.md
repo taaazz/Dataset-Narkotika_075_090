@@ -1,8 +1,7 @@
 
 ![App Screenshot](https://putusan3.mahkamahagung.go.id/public/frontend/images/logo.png)
 
-
-# Analisis Data Putusan Pengadilan Negeri Denpasar
+# Analisis Data Putusan Pengadilan Negeri Mataram
 
 ---
 ### Nama Kelompok: 
@@ -10,9 +9,10 @@
 ##### 2. 202110370311090 - Tazkia Damayanti
 ---
 
-Penelitian ini dilakukan untuk menganalisa putusan pengadilan terkait tindak pidana Narkotika di Kota Mataram.
+Penelitian ini dilakukan untuk menganalisa putusan pengadilan terkait tindak pidana Narkotika dengan menggunakan _Information Retrieval_  berfokus pada inverted indexing yang berguna dalam mengembangkan sistem pencarian dokumen.
+
 ## Deskripsi Dataset
-Dataset putusan pengadilan negeri merupakan kumpulan data yang berisi informasi mengenai putusan-putusan yang dikeluarkan oleh pengadilan negeri. Dataset yang kami gunakan adalah dataset tindak pidana Narkotika di Kota Mataram pada tahun 2024.  
+Dataset Putusan Pengadilan Negeri merupakan kumpulan data yang berisi informasi mengenai putusan-putusan yang dikeluarkan oleh pengadilan negeri. Dataset yang kami gunakan adalah dataset tindak pidana Narkotika di Kota Mataram pada tahun 2024.  
 
 ## Sumber Data
 Dataset dapat diakses di [dataset putusan pengadilan narkotika Mataram ](https://docs.google.com/spreadsheets/d/1zOTsV8rJpzXSo3YosxwF-tNAzGYuGlSx/edit?usp=drive_link&ouid=100999583791551810599&rtpof=true&sd=true)
