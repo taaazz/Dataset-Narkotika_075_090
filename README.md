@@ -25,8 +25,9 @@ Dataset dapat diakses di [dataset putusan pengadilan narkotika Mataram ](https:/
     - Putusan Amar
 
 ## Catatan Penting
-> **Note:** 1. Kerahasiaan: Pengguna dataset diharapkan untuk menjaga kerahasiaan dan privasi pihak yang terlibat dalam kasus-kasus tersebut.
+> **Note:
+> 1. Kerahasiaan: Pengguna dataset diharapkan untuk menjaga kerahasiaan dan privasi pihak yang terlibat dalam kasus-kasus tersebut.
 2. Kepatuhan Hukum: Penggunaan dataset ini harus mematuhi regulasi dan etika yang berlaku dalam lingkup hukum.
-3. Kontak: Jika terdapat pertanyaan lebih lanjut atau permintaan informasi tambahan, silakan hubungi penyedia dataset.
+3. Kontak: Jika terdapat pertanyaan lebih lanjut atau permintaan informasi tambahan, silakan hubungi penyedia dataset.**
 
 
