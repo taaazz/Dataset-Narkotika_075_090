@@ -1,5 +1,7 @@
 
-![App Screenshot](https://putusan3.mahkamahagung.go.id/public/frontend/images/logo.png)
+<p align="center">
+    <img src="https://cdn.kibrispdr.org/data/760/logo-pengadilan-negeri-vector-10.jpg" alt="Overview Image" width="300"/>
+</p>
 
 # Analisis Data Putusan Pengadilan Negeri Mataram
 
@@ -23,6 +25,16 @@ Dataset dapat diakses di [dataset putusan pengadilan narkotika Mataram ](https:/
     - Lembaga Peradilan
     - Barang Bukti
     - Putusan Amar
+
+Berikut adalah contoh beberapa entri dalam dataset:
+
+| No Putusan                  | Lembaga Peradilan | Barang Bukti                                                                                               | Amar Putusan                                                                                                                                |
+|-----------------------------|-------------------|-----------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| 249/Pid.Sus/2024/PN Mtr     | PN MATARAM        | 1 (satu) bungkus Narkotika jenis Shabu dibungkus dengan menggunakan plastik klip dan dililit isolsi warna kuning | Membebankan kepada Terdakwa untuk membayar biaya perkara ini sejumlah Rp2.500,(dua ribu lima ratus rupiah)                                   |
+| 261/Pid.Sus/2024/PN Mtr     | PN MATARAM        | 1 (satu) buah plastic klip bening berisi kristal bening diduga narkotika jenis sabu                          | Menjatuhkan pidana terhadap Terdakwa dengan pidana penjara selama 7 (tujuh) tahun dan denda sebesar Rp.1.000.000.000,- (satu milyar rupiah)   |
+| 268/Pid.Sus/2024/PN Mtr     | PN MATARAM        | 1 (satu) buah wadah berbentuk gelas warna hitam yang didalamnya berisi 1 (satu) buah plastik klip bening       | Menjatuhkan pidana terhadap Para Terdakwa dengan pidana penjara masing-masing selama 6 (enam) tahun dan denda sebesar Rp.800.000.000,-     |
+| 299/Pid.Sus/2024/PN Mtr     | PN MATARAM        | 1 (satu) dompet warna hitam                                                                                 | Menjatuhkan pidana kepada Terdakwa dengan pidana penjara selama 4 (empat) tahun dan denda sejumlah Rp.1.000.000.000,- (satu miliar rupiah)  |
+| 321/Pid.Sus/2024/PN Mtr     | PN MATARAM        | 30 (tiga puluh) plastic transparan yang didalamnya berisi biji, dan daun kering jenis ganja                  | Menjatuhkan pidana kepada Terdakwa dengan pidana penjara selama 6 (enam) tahun dan 6 (enam) bulan dan denda sebesar Rp1.000.000.000,-     |
 
 ## Catatan Penting
 1. Kerahasiaan: Pengguna dataset diharapkan untuk menjaga kerahasiaan dan privasi pihak yang terlibat dalam kasus-kasus tersebut.
