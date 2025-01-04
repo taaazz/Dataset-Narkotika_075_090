@@ -1,0 +1,54 @@
+{
+    "No Putusan": [
+        "PUTUSAN",
+        "Nomor"
+    ],
+    "Lembaga Peradilan": [
+        "Pengadilan Negeri"
+    ],
+    "Identitas Terdakwa": [
+        "Nama lengkap",
+        "Tempat lahir",
+        "Umur/Tanggal lahir",
+        "Jenis kelamin",
+        "Kebangsaan",
+        "Tempat tinggal",
+        "Agama",
+        "Pekerjaan"
+    ],
+    "Waktu Kejadian": [
+        "tanggal",
+        "hari",
+        "sekira jam"
+    ],
+    "Pasal yang Dilanggar": [
+        "sebagaimana dalam pasal",
+        "dalam pasal",
+        "sebagaimana pasal",
+        "Undang-Undang No. "
+    ],
+    "Barang Bukti": [
+        "barang bukti ",
+        "barang bukti berupa\\s*(.*?)(;|berupa:\\n)"
+    ],
+    "Amar Putusan": [
+        "Mengadili",
+        "Menjatuhkan pidana",
+        "Menyatakan barang bukti"
+    ],
+    "Saksi": [
+        "oleh saksi",
+        "dengan saksi",
+        "dan saksi"
+    ],
+    "Laboratorium dan Hasil Uji": [
+        "Balai Besar POM Mataram",
+        "hasil pengujian",
+        "mengandung "
+    ],
+    "Jenis Hukuman": [
+        "pidana penjara",
+        "denda",
+        "subsidiar"
+    ]
+}
