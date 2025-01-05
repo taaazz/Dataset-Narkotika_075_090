@@ -14,12 +14,7 @@
         "Kebangsaan",
         "Tempat tinggal",
         "Agama",
-        "Pekerjaan"
-    ],
-    "Waktu Kejadian": [
-        "tanggal",
-        "hari",
-        "sekira jam"
+        "Pekerjaan:"
     ],
     "Pasal yang Dilanggar": [
         "sebagaimana dalam pasal",
@@ -28,13 +23,21 @@
         "Undang-Undang No. "
     ],
     "Barang Bukti": [
-        "barang bukti ",
+        "barang bukti berupa : ",
+        "barang bukti berupa: ",
         "barang bukti berupa\\s*(.*?)(;|berupa:\\n)"
     ],
     "Amar Putusan": [
-        "Mengadili",
-        "Menjatuhkan pidana",
-        "Menyatakan barang bukti"
+        "MENGADILI: ",
+        "M E N G A D I L I: ",
+        "mengadili: ",
+        "Menyatakan Terdakwa ",
+        "Menetapkan Terdakwa ",
+        "Menetapkan masa penangkapan dan penahanan",
+        "Menjatuhkan pidana ",
+        "Menetapkan barang bukti ",
+        "Membebankan kepada Terdakwa ",
+        "Membebankan kepada terdakwa "
     ],
     "Saksi": [
         "oleh saksi",
